@@ -405,4 +405,9 @@ button, a {
   font-size: 1rem;
 }
 
+nav.section-navbar-wrapper-logo_block__logo {
+  color: red;
+  background-color: blueviolet;
+}
+
 /*# sourceMappingURL=style.css.map */
